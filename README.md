@@ -1,4 +1,9 @@
 ## Hi there 👋
+안녕하세요.
+
+프론트엔드 개발자
+- 현재 구직중입니다.
+- 현재 `React`, `TypeScript`를 공부하고 있습니다.
 
 <!--
 **rnjs9861/rnjs9861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
