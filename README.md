@@ -6,8 +6,9 @@
 #61DAFB
 ### 기술 스택
 - 언어: JavaScript, Html, Css, Java, Oracle
+- 프레임워크 및 라이브러리: React, Spring
+- 스타일링: CSS, SCSS, Styled-component, Emotion
 - 툴: GitHubm, Figma, VS code, Eclipse, SQL Developer
-- 기타:
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
