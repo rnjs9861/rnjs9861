@@ -3,7 +3,7 @@
 ### 프론트엔드 개발자
 - 현재 구직중입니다.
 - 현재 `React`, `TypeScript`를 공부하고 있습니다.
-#61DAFB
+
 ### 기술 스택
 - 언어: JavaScript, Html, Css, Java, Oracle
 - 프레임워크 및 라이브러리: React, Spring
@@ -38,7 +38,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-  
+
+### 노션
+
+
+### 연락하기
+- 이메일: rkwkvlrmakfh@gmail.com
+
+
+
 <!--
 **rnjs9861/rnjs9861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
