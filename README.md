@@ -40,7 +40,7 @@
 </div>
 
 ### 노션
-
+https://stream-sunstone-353.notion.site/e2b35c3293874dd3811ab12099a5dbdc?pvs=74
 
 ### 연락하기
 - 이메일: rkwkvlrmakfh@gmail.com
