@@ -62,4 +62,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/junh0328/prepare_frontend_interview/
